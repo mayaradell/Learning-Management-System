@@ -7,3 +7,4 @@ LMS-Laravel is a Learning Management System (or LMS) that facilitates the creati
 The Teacher (course creator)
 The Student (or user)
 The Admin
+using php laravel js
